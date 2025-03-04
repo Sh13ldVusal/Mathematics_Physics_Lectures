@@ -463,7 +463,7 @@ We have function $f(x)= x-1$. Give inverse function $f^{-1}$. Show both function
 
 ### 19. Limits of Sequences
 
-#### 1. Calculate:
+#### 1. Calculate:d
 
 - $\displaystyle \lim_{n \to \infty} \frac{n^2 + 3n}{2 n^2 - 2n}$
 - $\displaystyle \lim_{n \to \infty} \frac{(2n+3)^3}{n^3-1}$
